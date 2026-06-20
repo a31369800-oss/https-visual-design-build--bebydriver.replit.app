@@ -1,0 +1,20 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "ox74ONkVxDHbCbfH-p5Sv"
+uri = "file://artifacts/beby-tour/public/paket-delivery.png"
+type = "image"
+title = "package delivery box"
+
+[[generated]]
+id = "lc1HUBBMjm1sG587VnAZX"
+uri = "file://artifacts/beby-tour/public/galeri-interior.png"
+type = "image"
+title = "bus interior seats"
+
+[[generated]]
+id = "lVuLnb97q1dnokV-f6e1p"
+uri = "file://artifacts/beby-tour/public/galeri-van2.png"
+type = "image"
+title = "van mountain landscape"
